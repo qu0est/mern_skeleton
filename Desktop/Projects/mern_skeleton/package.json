@@ -1,0 +1,22 @@
+{
+  "name": "mern_skeleton",
+  "version": "1.0.0",
+  "description": "practice mern development",
+  "main": "template.js",
+  "author": "QS",
+  "license": "MIT",
+  "scripts": {
+    "development": "nodemon"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.18"
+  }
+}
